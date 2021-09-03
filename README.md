@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Im a Computer Science Student with specialization in Software Engineering. 
-#### I study at the Norwegian University of Science and Technology (NTNU) in Trondheim.
+#### I study at the Norwegian University of Science and Technology (NTNU) in Trondheim and have previously studied Computer Engineering at NTNU in Ålesund.
 <!--
 **trymjor/trymjor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
