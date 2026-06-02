@@ -1,18 +1,15 @@
-### Hi there 👋
+# Hey, I'm Trym 👋
+ 
+Full-stack software engineer, leaning frontend. I care about the details: clean interfaces, thoughtful UX, and code that's enjoyable to work with.
 
-#### Im a Computer Science Student with specialization in Software Engineering. 
-#### I study at the Norwegian University of Science and Technology (NTNU) in Trondheim and have previously studied Computer Engineering at NTNU in Ålesund. 💻
-<!--
-**trymjor/trymjor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building → TableSummit
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Working → Software Developer @ Stacc
+ 
+## 🔨 What I'm building on the side
+ 
+**[TableSummit](https://github.com/trym/tablesummit)** — A football league standings prediction platform. Pick your predicted table, track how your forecast holds up across the season, and compete with others.
+ 
+## 📬 Get in touch
+ 
+Happy to talk about football, stats, or side projects.
